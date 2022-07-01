@@ -1,1 +1,1 @@
-# cole-pay
+# celo-pay
